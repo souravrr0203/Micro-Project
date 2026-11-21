@@ -1,0 +1,4 @@
+101 Apples Fruits 30 100 0 20 2026-12-01
+102 Oranges Fruits 50 200 0 20 2026-12-03
+103 Guavas Fruits 45 100 0 20 2026-11-30
+104 Rice Dry_Goods 60 200 0 50 2027-05-01
